@@ -14,3 +14,8 @@ npm install console.lol
 console.log("Initializing user", user.id);
 // (╯°□°)╯︵ ┻━┻  Initializing user 377
 ```
+
+```javascript
+console.log("GET", url);
+// ¯\_(ツ)_/¯ GET /api/users
+```
