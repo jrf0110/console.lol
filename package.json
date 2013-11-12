@@ -1,0 +1,21 @@
+{
+  "name": "console.lol",
+  "version": "0.1.0",
+  "description": "Console.log but with lols",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jrf0110/console.lol.git"
+  },
+  "keywords": [
+    "console.lol",
+    "console.log"
+  ],
+  "author": "John Fawcett",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "8920a1f577a3151707167b10c0468880b764237c"
+}
