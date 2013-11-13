@@ -11,11 +11,11 @@ npm install console.lol
 ## Usage
 
 ```javascript
-console.log("Initializing user", user.id);
+console.lol("Initializing user", user.id);
 // (╯°□°)╯︵ ┻━┻  Initializing user 377
 ```
 
 ```javascript
-console.log("GET", url);
+console.lol("GET", url);
 // ¯\_(ツ)_/¯ GET /api/users
 ```
