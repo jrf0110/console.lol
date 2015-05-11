@@ -19,7 +19,7 @@
   console.lol = function(){
     Array.prototype.unshift.call(
       arguments
-    , lols[ ~~(Math.random() * lols.length) ]
+    , lols[ Math.floor(Math.random() * lols.length) ]
     );
 
     console.log.apply( console, arguments );
