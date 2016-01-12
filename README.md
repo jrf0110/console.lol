@@ -19,3 +19,13 @@ console.lol("Initializing user", user.id);
 console.lol("GET", url);
 // ¯\_(ツ)_/¯ GET /api/users
 ```
+
+```javascript
+console.rofl("Hello how are you?")
+// ROFL:ROFL:ROFL:ROFL
+//         _^___
+// L    __/   [] \
+// LOL===__        \     Hello how are you?
+// L      \________]
+//         I   I
+//       --------/

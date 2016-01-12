@@ -9,7 +9,7 @@
   , '(͡°͜ʖ͡°)'
   , '(>ლ)'
   , '(╯︵╰,)'
-  , '@('_')@'
+  , '@(\'_\')@'
   , 'ʕʘ̅͜ʘ̅ʔ'
   , '( •_•) ( •_•)>⌐■-■ (⌐■_■)'
   , 'ۜ\(סּںסּَ` )/ۜ'
@@ -23,5 +23,24 @@
     );
 
     console.log.apply( console, arguments );
+  };
+
+  console.rofl = function(){
+    var copter = function (text) {
+      return [
+        ' ROFL:ROFL:ROFL:ROFL',
+        '         _^___',
+        ' L    __/   [] \\ ',
+        'LOL===__        \\     ' + text,
+        ' L      \\________] ',
+        '         I   I',
+        '       --------/',
+      ];
+    }
+
+    copter(Array.prototype.join.call(arguments, ' '))
+      .forEach(function (line) {
+        console.log(line);
+      });
   };
 })();
