@@ -1,6 +1,6 @@
 {
   "name": "console.lol",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Console.log but with lols",
   "main": "index.js",
   "scripts": {
